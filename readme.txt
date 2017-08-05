@@ -1,2 +1,1 @@
-Readme - file!
-User-1
+Basic commands to work with Git.
