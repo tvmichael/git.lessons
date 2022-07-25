@@ -1,3 +1,3 @@
 Basic commands to work with Git.
 
-// GIT
+// GIT V0.1
